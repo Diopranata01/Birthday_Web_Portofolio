@@ -160,9 +160,14 @@ img {
   top: 2rem;
   background-color: var(--first-color);
 }
+nav img{
+  width: 50px;
+}
 
-.nav__logo {
+.nav__logo img{
   color: var(--second-color);
+  border-radius: 50%;
+
 }
 
 .nav__toggle {
